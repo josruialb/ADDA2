@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AlgoritmosRecursivos"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DatosCompartidos"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosBT"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosDeGrafos"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosGeneticos"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosParteComun"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosPD"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosPL"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosResueltosConVariasTecnicas"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Geneticos"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Grafos"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LpSolve"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ParteComun"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Grafos/lib/jgrapht-core-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Grafos/lib/jgrapht-io-1.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
